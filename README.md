@@ -1,6 +1,6 @@
 # After Effects 语言一键切换脚本 (AE Language Switcher)
 
-用于一键切换Adobe After Effects界面语言的实用脚本。自适应不同版本的AE以及安装目录，并快速地在**简体中文 (zh_CN)** 和**英文 (en_US)** 之间切换软件的界面语言。
+用于一键切换Adobe After Effects界面语言的实用脚本。可自适应不同版本的AE以及安装目录，并快速地在**简体中文 (zh_CN)** 和**英文 (en_US)** 之间切换软件的界面语言。
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/ded3ceaa-6898-45c2-9083-f9636c40506a" alt="PixPin_2025-06-07_18-14-16">
