@@ -1,5 +1,7 @@
 # After Effects 语言一键切换脚本
 
+![GitHub License](https://img.shields.io/github/license/EricZhou05/AE_LanguageSwitcher)
+
 用于一键切换Adobe After Effects界面语言的实用脚本。可自适应不同版本的AE以及安装目录，并快速地在**简体中文 (zh_CN)** 和**英文 (en_US)** 之间切换软件的界面语言。
 
 <p align="center">
