@@ -27,7 +27,7 @@
     * **macOS 路径示例**:
         `/Applications/Adobe After Effects 2024/Scripts/ScriptUI Panels`
 3.  重启 After Effects。
-4.  在顶部菜单栏选择 **窗口 (Window)** ，在菜单的最下方找到并点击 **语言一键切换 v2.4.jsx** 来运行脚本。
+4.  在顶部菜单栏选择 **窗口 (Window)** ，在菜单的最下方找到并点击 **语言一键切换 v3.0.jsx** 来运行脚本。
 
 ## 📖 使用方法
 
